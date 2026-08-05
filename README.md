@@ -80,7 +80,7 @@ Durante o desenvolvimento foram utilizados diversos conceitos importantes, entre
 ---
 
 
-## 👨‍💻 Autor
+##  Autor
 
 Desenvolvido por **Enzo Sano** como projeto de estudos para praticar desenvolvimento desktop com C#, Windows Forms, lógica de programação e criação de interfaces gráficas.
 
